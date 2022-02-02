@@ -6,8 +6,8 @@
     <img src="https://img.shields.io/badge/python-3.10-blue.svg" alt="Github Workflow build on master" />
   </a>
 
-# Flow 
-Secure your Python source-code files using Flow, the all-in-one Python code obfuscator
+# Shield 
+Secure your Python source-code files using Shield, the all-in-one Python code obfuscator
   
 ## Features
   - Anti-debug
