@@ -16,6 +16,6 @@ Secure your Python source-code files using Shield, the all-in-one Python code ob
   - Junk attributes
   - Renamer
   - Anti-debug
-
+  
 ## Purchase 
 Software can be purchased via PayPal, current price is **$15/lifetime**. For support, please join the Discord [from here](https://google.com)
