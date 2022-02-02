@@ -9,7 +9,7 @@
 # Flow 
 Secure your Python source-code files using Flow, the all-in-one Python code obfuscator
   
-# Features
+## Features
   - Anti-debug
   - Anti-VM
   - String encryption
@@ -17,5 +17,5 @@ Secure your Python source-code files using Flow, the all-in-one Python code obfu
   - Renamer
   - Anti-debug
 
-# Contact
+## Purchase 
 Software can be purchased via PayPal, current price is **$15/lifetime**. For support, please join the Discord [from here](https://google.com)
