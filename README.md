@@ -18,8 +18,9 @@ Secure your Python source-code files using Shield, the all-in-one Python code ob
 ## Notice
   This project was meant to be made by the communiity, for the community. Meaning this project is free of charge, and is made to be modified by the users.
 
-# Developers
-  <table>
+## Developers
+  
+<table>
 <tr>
 <th> mctto </th>
 <th> AzgardDev </th>
