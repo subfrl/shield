@@ -12,7 +12,7 @@ Secure your Python source-code files using Shield, the all-in-one Python code ob
 ## Features
   - Anti-debug
   - Anti-VM
-  - Run-time code decryption
+  - Run-time code decoding
   - Junk code
   
 ## Notice
