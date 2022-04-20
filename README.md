@@ -23,6 +23,6 @@ This won't be frequently updated, as me and Azgard have more things to do, but i
 <table>
 <tr>
 <th> mctto </th>
-<th> AzgardDev </th>
+<th> azgardev </th>
 </tr>
 </table>
