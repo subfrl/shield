@@ -1,3 +1,6 @@
+![Build status](https://img.shields.io/badge/version-1.0.0-lightgrey)
+![Build status](https://img.shields.io/badge/python-3.10-lightgrey)
+
 # Shield 
 Secure your Python source-code files using Shield, the all-in-one Python code obfuscator
   
